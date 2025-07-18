@@ -25,12 +25,14 @@ Python 3 for data processing and analysis
 Pandas, Regex, Matplotlib, and Seaborn
 Power BI for interactive data visualization
 Jupyter Notebook for documenting the analysis workflow
+
+
 📊 Power BI Dashboard
 An interactive Power BI report is included to visually explore the findings from the log analysis. Key features of the dashboard include:
-
 Daily and hourly traffic trends
 Top requested resources and file types
 HTTP status code breakdown
 Most active IP addresses and user agents
 Anomaly detection in traffic patterns
+
 📁 The Power BI report (.pbix) is located in the /reports directory.
